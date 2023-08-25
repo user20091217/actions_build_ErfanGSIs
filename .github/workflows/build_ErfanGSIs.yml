@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.3.0.QFAMIXM/miui_CEPHEUSGlobal_V12.0.3.0.QFAMIXM_175452a9a2_10.0.zip
+  ROM_URL: https://5v36ljvlpd3orndp3a2l2p2tkren77k8c5p254bqs6fkme9pi0nvv15f.qc.dolfincdnx.net:13314/xdispatch1bbb72dd01b4121a/bigota.d.miui.com/V12.5.4.0.RFBCNXM/miui_GRUS_V12.5.4.0.RFBCNXM_4c2e342d60_11.0.zip?bsreqid=99b98c71fbfe21df4ae0f2f38c94da9f&bsxdisp=se
   ROM_NAME: MIUI
   BUILD_TYPE: AB
   TZ: Asia/Shanghai
